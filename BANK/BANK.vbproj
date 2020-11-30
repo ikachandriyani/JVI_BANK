@@ -1,0 +1,490 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{898518C2-EE0E-4290-B39D-3E01C6BB872A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>BANK.My.MyApplication</StartupObject>
+    <RootNamespace>BANK</RootNamespace>
+    <AssemblyName>BANK</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>BANK.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>BANK.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ambilkartu.Designer.vb">
+      <DependentUpon>ambilkartu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ambilkartu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cekkurs.Designer.vb">
+      <DependentUpon>cekkurs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cekkurs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ceksaldo.Designer.vb">
+      <DependentUpon>ceksaldo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ceksaldo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cetakstruk.Designer.vb">
+      <DependentUpon>cetakstruk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cetakstruk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masukkankartu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masukkankartu.Designer.vb">
+      <DependentUpon>masukkankartu.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gantipin.Designer.vb">
+      <DependentUpon>gantipin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="gantipin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gantipin1.Designer.vb">
+      <DependentUpon>gantipin1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="gantipin1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gantipin2.Designer.vb">
+      <DependentUpon>gantipin2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="gantipin2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gantipin3.Designer.vb">
+      <DependentUpon>gantipin3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="gantipin3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GlobalSet.vb" />
+    <Compile Include="isipulsa.Designer.vb">
+      <DependentUpon>isipulsa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="isipulsa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="isipulsa1.Designer.vb">
+      <DependentUpon>isipulsa1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="isipulsa1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="isipulsa2.Designer.vb">
+      <DependentUpon>isipulsa2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="isipulsa2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lagi.Designer.vb">
+      <DependentUpon>lagi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="lagi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="listrik.Designer.vb">
+      <DependentUpon>listrik.vb</DependentUpon>
+    </Compile>
+    <Compile Include="listrik.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="listrik2.Designer.vb">
+      <DependentUpon>listrik2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="listrik2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masukkanpin.Designer.vb">
+      <DependentUpon>masukkanpin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masukkanpin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="informasi.Designer.vb">
+      <DependentUpon>informasi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="informasi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuutama.Designer.vb">
+      <DependentUpon>menuutama.vb</DependentUpon>
+    </Compile>
+    <Compile Include="menuutama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="pbb.Designer.vb">
+      <DependentUpon>pbb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pbb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pbb1.Designer.vb">
+      <DependentUpon>pbb1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pbb1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pbb2.Designer.vb">
+      <DependentUpon>pbb2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pbb2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pembayaran.Designer.vb">
+      <DependentUpon>pembayaran.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pembayaran.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pembelian.Designer.vb">
+      <DependentUpon>pembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="penarikkantunai.Designer.vb">
+      <DependentUpon>penarikkantunai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="penarikkantunai.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="penarikkantunai2.Designer.vb">
+      <DependentUpon>penarikkantunai2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="penarikkantunai2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="silahkanambil.Designer.vb">
+      <DependentUpon>silahkanambil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="silahkanambil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telepon.Designer.vb">
+      <DependentUpon>telepon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="telepon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telepon2.Designer.vb">
+      <DependentUpon>telepon2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="telepon2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="token.Designer.vb">
+      <DependentUpon>token.vb</DependentUpon>
+    </Compile>
+    <Compile Include="token.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="token2.Designer.vb">
+      <DependentUpon>token2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="token2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="token3.Designer.vb">
+      <DependentUpon>token3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="token3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaksilain.Designer.vb">
+      <DependentUpon>transaksilain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksilain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transfer\BLDisp.Designer.vb">
+      <DependentUpon>BLDisp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transfer\BLDisp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transfer\JVIDisp.Designer.vb">
+      <DependentUpon>JVIDisp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transfer\JVIDisp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transfer\jumBankLain.Designer.vb">
+      <DependentUpon>jumBankLain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transfer\jumBankLain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transfer\jumJVI.Designer.vb">
+      <DependentUpon>jumJVI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transfer\jumJVI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transfer\KodeBank.Designer.vb">
+      <DependentUpon>KodeBank.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transfer\KodeBank.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transfer\rekBankLain.Designer.vb">
+      <DependentUpon>rekBankLain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transfer\rekBankLain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transfer\rekJVI.Designer.vb">
+      <DependentUpon>rekJVI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transfer\rekJVI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transfer\transfer.Designer.vb">
+      <DependentUpon>transfer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transfer\transfer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tunggu.Designer.vb">
+      <DependentUpon>tunggu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tunggu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ambilkartu.resx">
+      <DependentUpon>ambilkartu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cekkurs.resx">
+      <DependentUpon>cekkurs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ceksaldo.resx">
+      <DependentUpon>ceksaldo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cetakstruk.resx">
+      <DependentUpon>cetakstruk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masukkankartu.resx">
+      <DependentUpon>masukkankartu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gantipin.resx">
+      <DependentUpon>gantipin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gantipin1.resx">
+      <DependentUpon>gantipin1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gantipin2.resx">
+      <DependentUpon>gantipin2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gantipin3.resx">
+      <DependentUpon>gantipin3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="isipulsa.resx">
+      <DependentUpon>isipulsa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="isipulsa1.resx">
+      <DependentUpon>isipulsa1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="isipulsa2.resx">
+      <DependentUpon>isipulsa2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lagi.resx">
+      <DependentUpon>lagi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="listrik.resx">
+      <DependentUpon>listrik.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="listrik2.resx">
+      <DependentUpon>listrik2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masukkanpin.resx">
+      <DependentUpon>masukkanpin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="informasi.resx">
+      <DependentUpon>informasi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuutama.resx">
+      <DependentUpon>menuutama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pbb.resx">
+      <DependentUpon>pbb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pbb1.resx">
+      <DependentUpon>pbb1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pbb2.resx">
+      <DependentUpon>pbb2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pembayaran.resx">
+      <DependentUpon>pembayaran.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pembelian.resx">
+      <DependentUpon>pembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="penarikkantunai.resx">
+      <DependentUpon>penarikkantunai.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="penarikkantunai2.resx">
+      <DependentUpon>penarikkantunai2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="silahkanambil.resx">
+      <DependentUpon>silahkanambil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telepon.resx">
+      <DependentUpon>telepon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telepon2.resx">
+      <DependentUpon>telepon2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="token.resx">
+      <DependentUpon>token.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="token2.resx">
+      <DependentUpon>token2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="token3.resx">
+      <DependentUpon>token3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksilain.resx">
+      <DependentUpon>transaksilain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transfer\BLDisp.resx">
+      <DependentUpon>BLDisp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transfer\JVIDisp.resx">
+      <DependentUpon>JVIDisp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transfer\jumBankLain.resx">
+      <DependentUpon>jumBankLain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transfer\jumJVI.resx">
+      <DependentUpon>jumJVI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transfer\KodeBank.resx">
+      <DependentUpon>KodeBank.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transfer\rekBankLain.resx">
+      <DependentUpon>rekBankLain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transfer\rekJVI.resx">
+      <DependentUpon>rekJVI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transfer\transfer.resx">
+      <DependentUpon>transfer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tunggu.resx">
+      <DependentUpon>tunggu.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MASUKKANKARTU.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MASUKKANPIN.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

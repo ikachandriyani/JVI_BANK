@@ -1,0 +1,297 @@
+D:\SEMESTER 3\GUI\BANK\BANK\bin\Debug\BANK.exe
+D:\SEMESTER 3\GUI\BANK\BANK\bin\Debug\BANK.pdb
+D:\SEMESTER 3\GUI\BANK\BANK\bin\Debug\BANK.xml
+D:\SEMESTER 3\GUI\BANK\BANK\obj\Debug\BANK.vbprojAssemblyReference.cache
+D:\SEMESTER 3\GUI\BANK\BANK\obj\Debug\BANK.ceksaldo.resources
+D:\SEMESTER 3\GUI\BANK\BANK\obj\Debug\BANK.Form1.resources
+D:\SEMESTER 3\GUI\BANK\BANK\obj\Debug\BANK.masukkanpin.resources
+D:\SEMESTER 3\GUI\BANK\BANK\obj\Debug\BANK.informasi.resources
+D:\SEMESTER 3\GUI\BANK\BANK\obj\Debug\BANK.Resources.resources
+D:\SEMESTER 3\GUI\BANK\BANK\obj\Debug\BANK.pilihjenisrek.resources
+D:\SEMESTER 3\GUI\BANK\BANK\obj\Debug\BANK.transaksilain.resources
+D:\SEMESTER 3\GUI\BANK\BANK\obj\Debug\BANK.vbproj.GenerateResource.cache
+D:\SEMESTER 3\GUI\BANK\BANK\obj\Debug\BANK.vbproj.CoreCompileInputs.cache
+D:\SEMESTER 3\GUI\BANK\BANK\obj\Debug\BANK.exe
+D:\SEMESTER 3\GUI\BANK\BANK\obj\Debug\BANK.xml
+D:\SEMESTER 3\GUI\BANK\BANK\obj\Debug\BANK.pdb
+D:\SEMESTER 3\GUI\BANK\BANK\obj\Debug\BANK.ambilkartu.resources
+D:\SEMESTER 3\GUI\BANK\BANK\obj\Debug\BANK.tunggu.resources
+D:\SEMESTER 3\GUI\BANK\BANK\obj\Debug\BANK.menuutama.resources
+D:\SEMESTER 3\GUI\BANK\BANK\obj\Debug\BANK.cetakstruk.resources
+D:\SEMESTER 3\GUI\BANK\BANK\obj\Debug\BANK.penarikkantunai.resources
+D:\SEMESTER 3\GUI\BANK\BANK\obj\Debug\BANK.penarikkantunai2.resources
+C:\Users\Jess\Downloads\BANK\BANK\bin\Debug\BANK.exe
+C:\Users\Jess\Downloads\BANK\BANK\bin\Debug\BANK.pdb
+C:\Users\Jess\Downloads\BANK\BANK\bin\Debug\BANK.xml
+C:\Users\Jess\Downloads\BANK\BANK\obj\Debug\BANK.vbprojAssemblyReference.cache
+C:\Users\Jess\Downloads\BANK\BANK\obj\Debug\BANK.ambilkartu.resources
+C:\Users\Jess\Downloads\BANK\BANK\obj\Debug\BANK.ceksaldo.resources
+C:\Users\Jess\Downloads\BANK\BANK\obj\Debug\BANK.cetakstruk.resources
+C:\Users\Jess\Downloads\BANK\BANK\obj\Debug\BANK.Form1.resources
+C:\Users\Jess\Downloads\BANK\BANK\obj\Debug\BANK.masukkanpin.resources
+C:\Users\Jess\Downloads\BANK\BANK\obj\Debug\BANK.informasi.resources
+C:\Users\Jess\Downloads\BANK\BANK\obj\Debug\BANK.menuutama.resources
+C:\Users\Jess\Downloads\BANK\BANK\obj\Debug\BANK.Resources.resources
+C:\Users\Jess\Downloads\BANK\BANK\obj\Debug\BANK.penarikkantunai.resources
+C:\Users\Jess\Downloads\BANK\BANK\obj\Debug\BANK.penarikkantunai2.resources
+C:\Users\Jess\Downloads\BANK\BANK\obj\Debug\BANK.pilihjenisrek.resources
+C:\Users\Jess\Downloads\BANK\BANK\obj\Debug\BANK.transaksilain.resources
+C:\Users\Jess\Downloads\BANK\BANK\obj\Debug\BANK.tunggu.resources
+C:\Users\Jess\Downloads\BANK\BANK\obj\Debug\BANK.vbproj.GenerateResource.cache
+C:\Users\Jess\Downloads\BANK\BANK\obj\Debug\BANK.vbproj.CoreCompileInputs.cache
+C:\Users\Jess\Downloads\BANK\BANK\obj\Debug\BANK.exe
+C:\Users\Jess\Downloads\BANK\BANK\obj\Debug\BANK.xml
+C:\Users\Jess\Downloads\BANK\BANK\obj\Debug\BANK.pdb
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\bin\Debug\BANK.exe
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\bin\Debug\BANK.pdb
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\bin\Debug\BANK.xml
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.vbprojAssemblyReference.cache
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.ambilkartu.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.cekkurs.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.ceksaldo.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.cetakstruk.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.masukkanpin.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.informasi.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.menuutama.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.Resources.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.penarikkantunai.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.penarikkantunai2.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.transaksilain.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.tunggu.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.vbproj.GenerateResource.cache
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.vbproj.CoreCompileInputs.cache
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.exe
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.xml
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.pdb
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.transfer.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.KodeBank.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.jumBankLain.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.rekBankLain.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.BLDisp.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\bin\Debug\BANK.exe
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\bin\Debug\BANK.pdb
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\bin\Debug\BANK.xml
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.vbprojAssemblyReference.cache
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.ambilkartu.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.cekkurs.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.ceksaldo.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.cetakstruk.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.Form1.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.masukkanpin.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.informasi.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.menuutama.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.Resources.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.penarikkantunai.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.penarikkantunai2.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.transaksilain.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.BLDisp.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.JIVDisp.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.jumBankLain.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.jumJIV.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.KodeBank.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.rekBankLain.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.rekJIV.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.transfer.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.tunggu.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.vbproj.GenerateResource.cache
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.vbproj.CoreCompileInputs.cache
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.exe
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.xml
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.pdb
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.pembayaran.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.telepon.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.telepon2.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.listrik.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.listrik2.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.pbb.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.pbb2.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.lagi.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.pbb1.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.gantipin.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.gantipin1.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.gantipin2.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.gantipin3.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.isipulsa.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.isipulsa1.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.isipulsa2.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.pembelian.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.token.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.token2.resources
+C:\Users\Valen\Documents\GUI\BANK\BANK\BANK\obj\Debug\BANK.token3.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\bin\Debug\BANK.exe
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\bin\Debug\BANK.pdb
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\bin\Debug\BANK.xml
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.vbprojAssemblyReference.cache
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.ambilkartu.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.cekkurs.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.ceksaldo.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.cetakstruk.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.gantipin.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.gantipin1.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.gantipin2.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.gantipin3.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.isipulsa.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.isipulsa1.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.isipulsa2.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.lagi.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.listrik.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.listrik2.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.masukkanpin.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.informasi.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.menuutama.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.Resources.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.pbb.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.pbb1.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.pbb2.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.pembayaran.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.pembelian.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.penarikkantunai.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.penarikkantunai2.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.telepon.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.telepon2.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.token.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.token2.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.token3.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.transaksilain.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.BLDisp.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.JVIDisp.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.jumBankLain.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.jumJVI.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.KodeBank.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.rekBankLain.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.transfer.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.tunggu.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.vbproj.GenerateResource.cache
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.vbproj.CoreCompileInputs.cache
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.exe
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.xml
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.pdb
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.masukkankartu.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\BANK\obj\Debug\BANK.rekJVI.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.masukkankartu.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.gantipin.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.gantipin1.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.gantipin2.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.gantipin3.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.isipulsa.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.isipulsa1.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.isipulsa2.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.lagi.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.listrik.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.listrik2.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.pbb.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.pbb1.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.pbb2.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.pembayaran.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.pembelian.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.telepon.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.telepon2.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.token.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.token2.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.token3.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.JVIDisp.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.jumJVI.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.rekJVI.resources
+C:\Users\Jess\OneDrive\Desktop\VB\BANK\BANK\obj\Debug\BANK.silahkanambil.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\bin\Debug\BANK.exe
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\bin\Debug\BANK.pdb
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\bin\Debug\BANK.xml
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.vbprojAssemblyReference.cache
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.ambilkartu.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.cekkurs.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.ceksaldo.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.cetakstruk.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.masukkankartu.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.gantipin.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.gantipin1.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.gantipin2.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.gantipin3.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.isipulsa.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.isipulsa1.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.isipulsa2.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.lagi.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.listrik.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.listrik2.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.masukkanpin.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.informasi.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.menuutama.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.Resources.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.pbb.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.pbb1.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.pbb2.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.pembayaran.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.pembelian.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.penarikkantunai.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.penarikkantunai2.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.silahkanambil.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.telepon.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.telepon2.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.token.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.token2.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.token3.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.transaksilain.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.BLDisp.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.JVIDisp.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.jumBankLain.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.jumJVI.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.KodeBank.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.rekBankLain.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.rekJVI.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.transfer.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.tunggu.resources
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.vbproj.GenerateResource.cache
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.vbproj.CoreCompileInputs.cache
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.exe
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.xml
+C:\Users\Valen\Documents\GUI\BANK1\BANK\BANK\obj\Debug\BANK.pdb
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\bin\Debug\BANK.exe
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\bin\Debug\BANK.pdb
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\bin\Debug\BANK.xml
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.vbprojAssemblyReference.cache
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.ambilkartu.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.cekkurs.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.ceksaldo.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.cetakstruk.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.masukkankartu.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.gantipin.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.gantipin1.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.gantipin2.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.gantipin3.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.isipulsa.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.isipulsa1.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.isipulsa2.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.lagi.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.listrik.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.listrik2.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.masukkanpin.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.informasi.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.menuutama.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.Resources.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.pbb.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.pbb1.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.pbb2.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.pembayaran.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.pembelian.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.penarikkantunai.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.penarikkantunai2.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.silahkanambil.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.telepon.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.telepon2.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.token.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.token2.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.token3.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.transaksilain.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.BLDisp.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.JVIDisp.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.jumBankLain.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.jumJVI.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.KodeBank.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.rekBankLain.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.rekJVI.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.transfer.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.tunggu.resources
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.vbproj.GenerateResource.cache
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.vbproj.CoreCompileInputs.cache
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.exe
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.xml
+D:\SEMESTER 3\GUI\BANK1\BANK\BANK\obj\Debug\BANK.pdb
